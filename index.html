@@ -407,14 +407,6 @@
 	$(document).ready(function () {
 		const queryString = window.location.search;
 		console.log(queryString);
-		const urlParams = new URLSearchParams(queryString);
-		const hello = urlParams.get('p')
-
-		if(hello != null)
-		{
-			SetPozdravIPoruka(hello);
-		}
-		// urlParams.delete('p')
     })
 
     // default example
