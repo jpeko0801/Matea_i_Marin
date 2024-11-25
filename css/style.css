@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Vivaldi", Arial, serif;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -1092,7 +1092,7 @@ form label {
 }
 
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Vivaldi", Arial, serif;
   color: #F14E95;
   font-size: 30px;
 }
@@ -1225,7 +1225,7 @@ margin-right: 3px;
   line-height: 1.5;
   /* font-weight: bold; */
   color: #166654;
-  font-family: "VivaldiVivaldi"
+  font-family: "Vivaldi"
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
