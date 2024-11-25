@@ -1351,7 +1351,7 @@ margin-right: 3px;
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: #166654;
+  color: rgba(218, 165, 32, 0.4);
 }
 .feature-left .feature-copy {
   float: left;
@@ -1366,7 +1366,7 @@ margin-right: 3px;
 .feature-left .feature-copy h3 {
   text-transform: uppercase;
   font-size: 18px;
-  color: #166654;
+  color: rgba(218, 165, 32, 0.4);
   margin-bottom: 10px;
 }
 
@@ -1417,7 +1417,7 @@ margin-right: 3px;
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #166654;
+  background: rgba(218, 165, 32, 0.4);
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1461,7 +1461,7 @@ margin-right: 3px;
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid #166654;
+  border: 2px solid rgba(218, 165, 32, 0.4);
 }
 
 #fh5co-offcanvas {
@@ -1715,9 +1715,9 @@ margin-right: 3px;
 }
 
 .btn-primary {
-  background: #166654;
+  background: rgba(218, 165, 32, 0.4);
   color: #fff;
-  border: 2px solid #166654;
+  border: 2px solid rgba(218, 165, 32, 0.4);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1725,11 +1725,11 @@ margin-right: 3px;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #166654;
-  border: 2px solid #166654;
+  color: rgba(218, 165, 32, 0.4);
+  border: 2px solid rgba(218, 165, 32, 0.4);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #166654;
+  background: rgba(218, 165, 32, 0.4);
   color: #fff;
 }
 
@@ -1859,7 +1859,7 @@ margin-right: 3px;
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #166654;
+  border-color: #DAA520D9;
 }
 
 .row-pb-md {
@@ -1887,7 +1887,7 @@ margin-right: 3px;
 .roundbutton{
   border: none;
   color: white;
-  background-color: #166654;
+  background-color: #DAA520D9;
 }
 
 /* .num_people {
@@ -1920,7 +1920,7 @@ input{
   width: 3.5rem;
   height: 3.5rem;
   color: white;
-  background-color: #166654;
+  background-color: rgba(218, 165, 32, 0.4);
   text-align: center;
   border: none !important;
 }
