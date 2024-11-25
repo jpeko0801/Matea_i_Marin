@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Vivaldi", Arial, serif;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -860,7 +860,7 @@ form label {
   margin-bottom: 0px;
   font-size: 100px;
   line-height: 1.5;
-  font-family: "Sacramento"
+  font-family: "Vivaldi"
 }
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h1,
@@ -904,9 +904,9 @@ form label {
 #fh5co-counter .display-tc .btn:hover,
 .fh5co-cover .display-tc .btn:hover {
   background: #fff !important;
-  -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
-  -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
-  box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.75) !important;
+  -webkit-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.50) !important;
+  -moz-box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.50) !important;
+  box-shadow: 0px 14px 30px -15px rgba(0, 0, 0, 0.50) !important;
 }
 
 #fh5co-counter {
@@ -1076,7 +1076,7 @@ form label {
 }
 
 .guestInfoLabel {
-	font-family: "Sacramento"
+	font-family: "Vivaldi"
 }
 
 @media screen and (max-width: 500px) {
@@ -1092,7 +1092,7 @@ form label {
 }
 
 .couple-half h3 {
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Vivaldi", Arial, serif;
   color: #F14E95;
   font-size: 30px;
 }
@@ -1225,7 +1225,7 @@ margin-right: 3px;
   line-height: 1.5;
   /* font-weight: bold; */
   color: #166654;
-  font-family: "Sacramento"
+  font-family: "Vivaldi"
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
