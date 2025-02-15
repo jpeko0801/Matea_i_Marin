@@ -221,6 +221,13 @@
 						<label for="catering" style="color: white;; font-size:30px"class="guestInfoLabel">Dolazimo na catering</label>
 					</div>
 				</div>
+				<div class="d-flex justify-content-between">
+					<div>
+						<input type="checkbox" id="accomodationCheckbox" style="font-size:20px"/>
+						<label for="accomodation" style="color: white;; font-size:30px"class="guestInfoLabel">Trebamo smještaj</label>
+					</div>
+				</div>
+				
 			</div>
 						<div>
                 <div class = "potvrdidiv">
@@ -407,8 +414,8 @@
 		document.getElementById("vegeterijanciCount").innerHTML + "<br/>Broj djece do 3 godine: " + 
 		document.getElementById("djeca3Count").innerHTML + "<br/>Broj djece do 12 godina: " + 
 		document.getElementById("djeca12Count").innerHTML + "<br/>Dolazimo na catering: " +
-		$("#cateringCheckbox").is(":checked");
-
+		$("#cateringCheckbox").is(":checked") + "<br/>Trebamo smještaj: ";
+        $("#accomodationCheckbox").is(":checked");
 		// SendWithPostmarkApp(body);
         var message = EmailSend(body);
 		if(message != "OK")
