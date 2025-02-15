@@ -651,6 +651,10 @@ button .desc-bride{
     right: auto;
   }
 }
+
+#fh5co-couple {
+    margin-top: 5vh; /* Pomakni dolje za visinu headera */
+}
 #fh5co-gallery-list {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
