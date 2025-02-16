@@ -1260,12 +1260,16 @@ margin-right: 3px;
   margin-bottom: 10px;
   line-height: 1.5;
   /* font-weight: bold; */
-  color: #166654;
+  color: #DAA520D9;
   font-family: "Tangerine"
 }
+.fh5co-heading h3 {
+	color: #DAA520D9;
+}
+
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 .fh5co-heading p {
