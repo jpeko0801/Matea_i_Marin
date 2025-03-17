@@ -63,7 +63,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: #947d6f;
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -236,6 +236,7 @@ button .desc-bride{
 }
 
 .fh5co-bg {
+	margin-top: 0;
   background-position: center center;
   width: 100%;
   float: left;
@@ -987,7 +988,7 @@ form label {
   display: inline-block;
   width: 100px;
   height: 100px;
-  background: rgba(218, 165, 32, 0.7);
+  background: rgba(148, 125, 111, 0.9);
   margin: 0 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1029,7 +1030,7 @@ form label {
 }
 
 .simply-countdown > .simply-section .simply-word {
-  color: #DAA520D9;
+  color: #947d6f;
   text-transform: uppercase;
   font-size: 12px;
   /* words */
@@ -1260,11 +1261,11 @@ margin-right: 3px;
   margin-bottom: 10px;
   line-height: 1.5;
   /* font-weight: bold; */
-  color: #DAA520D9;
+  color: #947d6f;
   font-family: "Tangerine"
 }
 .fh5co-heading h3 {
-	color: #DAA520D9;
+	color: #947d6f;
 }
 
 @media screen and (max-width: 768px) {
@@ -1391,7 +1392,7 @@ margin-right: 3px;
   display: table-cell;
   vertical-align: middle;
   font-size: 30px;
-  color: rgba(218, 165, 32, 0.4);
+  color: rgba(148, 125, 111);
 }
 .feature-left .feature-copy {
   float: left;
@@ -1406,7 +1407,7 @@ margin-right: 3px;
 .feature-left .feature-copy h3 {
   text-transform: uppercase;
   font-size: 18px;
-  color: rgba(218, 165, 32, 0.4);
+  color: rgba(148, 125, 111);
   margin-bottom: 10px;
 }
 
@@ -1419,16 +1420,16 @@ margin-right: 3px;
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0);
 }
 #fh5co-started .fh5co-heading h2 {
-  color: #fff;
+  color: #947d6f;
 }
 #fh5co-started .fh5co-heading p {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.5);
 }
 #fh5co-started .form-control {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(148, 125, 111, 0.7);
   border: none !important;
   color: #fff;
   font-size: 16px !important;
@@ -1452,12 +1453,12 @@ margin-right: 3px;
   color: #fff;
 }
 #fh5co-started .form-control:focus {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(148, 125, 111);
 }
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: rgba(218, 165, 32, 0.4);
+  background: rgba(148, 125, 111);
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -1501,7 +1502,7 @@ margin-right: 3px;
 }
 .owl-carousel .owl-controls .owl-dot.active span {
   background: transparent;
-  border: 2px solid rgba(218, 165, 32, 0.4);
+  border: 2px solid rgba(148, 125, 111);
 }
 
 #fh5co-offcanvas {
@@ -1755,9 +1756,9 @@ margin-right: 3px;
 }
 
 .btn-primary {
-  background: rgba(218, 165, 32, 0.4);
+  background: rgba(148, 125, 111);
   color: #fff;
-  border: 2px solid rgba(218, 165, 32, 0.4);
+  border: 2px solid rgba(148, 125, 111);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #f366a3 !important;
@@ -1765,11 +1766,11 @@ margin-right: 3px;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: rgba(218, 165, 32, 0.4);
-  border: 2px solid rgba(218, 165, 32, 0.4);
+  color: rgba(148, 125, 111);
+  border: 2px solid rgba(148, 125, 111);
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: rgba(218, 165, 32, 0.4);
+  background: rgba(148, 125, 111);
   color: #fff;
 }
 
@@ -1899,7 +1900,7 @@ margin-right: 3px;
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #DAA520D9;
+  border-color: #947d6f;
 }
 
 .row-pb-md {
@@ -1927,7 +1928,7 @@ margin-right: 3px;
 .roundbutton{
   border: none;
   color: white;
-  background-color: #DAA520D9;
+  background-color: #947d6f;
 }
 
 /* .num_people {
@@ -1960,7 +1961,7 @@ input{
   width: 3.5rem;
   height: 3.5rem;
   color: white;
-  background-color: rgba(218, 165, 32, 0.4);
+  background-color: rgba(148, 125, 111);
   text-align: center;
   border: none !important;
 }
