@@ -2000,3 +2000,57 @@ text-align: center;
 .vremenskacrta{
   margin-top: 20px;
 }
+
+@media screen and (max-width: 550px) {
+  .brojevi {
+    gap: 180px !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .brojevi {
+    gap: 140px !important;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .brojevi {
+    gap: 120px !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .brojevi {
+    gap: 100px !important;
+  }
+
+  .imeiprezime{
+      font-size: 35px !important;
+  }
+
+  .brojmobitela {
+    font-size: 15px !important;
+  }
+}
+
+
+@media screen and (max-width: 375px) {
+  .brojevi {
+    gap: 100px !important;
+  }
+}
+
+
+@media screen and (max-width: 350px) {
+  .brojevi {
+    gap: 95px !important;
+  }
+
+  .imeiprezime{
+    font-size: 25px !important;
+}
+
+.brojmobitela {
+  font-size: 12px !important;
+}
+}
