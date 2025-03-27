@@ -2054,3 +2054,19 @@ text-align: center;
   font-size: 12px !important;
 }
 }
+
+
+@media screen and (max-width: 300px) {
+  .brojevi {
+    gap: 80px !important;
+  }
+
+  .imeiprezime{
+    font-size: 20px !important;
+}
+
+.brojmobitela {
+  font-size: 10px !important;
+}
+
+}
