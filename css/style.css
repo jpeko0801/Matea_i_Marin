@@ -2041,7 +2041,7 @@ text-align: center;
 }
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 355px) {
   .brojevi {
     gap: 95px !important;
   }
@@ -2056,7 +2056,7 @@ text-align: center;
 }
 
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 305px) {
   .brojevi {
     gap: 80px !important;
   }
